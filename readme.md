@@ -2,8 +2,9 @@
 This is the Fiji Bio-Formats plug-in for Jetraw. With this Bio-Formats plug-in version you will be able to read Jetraw compressed TIFF files using your current Fiji installation. For more info visit https://www.jetraw.com/
 
 ## Requirements
-- **Jetraw installed** on a Windows computer (MacOS and Linux coming soon) and installation folder in PATH.
-- **Fiji installed** with Bio-Formats plug-in (accepted versions 6.5.1, 6.6.0 and 6.6.1)
+- **Jetraw installed** on a Windows computer (MacOS and Linux coming soon) and installation folder in PATH.<br/>
+*Note:* if you do not have Jetraw installed visit https://www.jetraw.com/downloads/software and for usage information https://github.com/Jetraw/Jetraw
+- **Fiji installed** with Bio-Formats plug-in (accepted versions 6.5.1, 6.6.0 and 6.6.1)<br/>
 *Note:* if you do not have Fiji installed you can download it from here -> https://imagej.net/Fiji/Downloads
 
 ## Installation
