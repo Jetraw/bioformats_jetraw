@@ -14,7 +14,7 @@ Choose the JAR file corresponding to your installed Bio-Formats version and **re
 *path_to_fiji_app/jars/bio-formats/*.
 
 ## Install Linux
-Follow the same steps as in the previous section. 
+Follow the same steps as in the Install Windows section.
 
 Once the .jar file is correctly replaced, an extra step is necessary. 
 
@@ -27,9 +27,10 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/path_to_jetraw_folder/lib/
 It is recommended to **add this instruction in your own bashrc (/home/user/.bashrc)** file, then everytime a bash environment is generated everything will be correctly set up. **Important to remember** that you will need to **launch Fiji** directly **from a Terminal**. If not the enviroment will not be correctly configured and Jetraw libraries will not be found. 
 
 ## Install macOS
-Follow the same steaps as in the Install Windows section. 
+Follow the same steps as in the Install Windows section.
 
-Once the .jar file is correctly replaced, an extra step is necessary if you do not have located the **Jetraw UI.app** in the **Applications folder**. If you are using a custom folder for Jetraw's installation, you need to configure the DYLD_FALLBACK_LIBRARY_PATH variable to point to your dpcore and jetraw libraries location. If not the Bio-Formats plug-in will not be able to find them.
+Once the .jar file is correctly replaced, an extra step is necessary just in the case that you have not located the **Jetraw UI.app** in the **Applications folder**. 
+If you are using a custom folder for Jetraw's installation, you need to configure the DYLD_FALLBACK_LIBRARY_PATH variable to point to your dpcore and jetraw libraries location. 
 
 ```
 export DYLD_FALLBACK_LIBRARY_PATH=$DYLD_LIBRARY_PATH:/path_to_jetraw_folder/lib/
