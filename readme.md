@@ -8,7 +8,7 @@ This is the Fiji Bio-Formats plug-in for Jetraw. With this Bio-Formats plug-in v
 *Note:* if you do not have Fiji installed you can download it from here -> https://imagej.net/Fiji/Downloads
 
 ## Install Windows
-First download the JAR file from [latest release (6.7.0)](https://github.com/Jetraw/Bio-Formats/releases/download/22.05.01.1/formats-bsd-6.9.1.jar), or browse [previous releases](https://github.com/Jetraw/Bio-Formats/releases). In the **Release section** you will find the JAR files for **versions**: 6.5.1, 6.6.0, 6.6.1, 6.7.0, 6.8.0, 6.8.1, 6.9.0 and 6.9.1.  
+First download the JAR file from [latest release (6.9.1)](https://github.com/Jetraw/Bio-Formats/releases/download/22.05.01.1/formats-bsd-6.9.1.jar), or browse [previous releases](https://github.com/Jetraw/Bio-Formats/releases). In the **Release section** you will find the JAR files for **versions**: 6.5.1, 6.6.0, 6.6.1, 6.7.0, 6.8.0, 6.8.1, 6.9.0 and 6.9.1.  
 
 Choose the JAR file corresponding to your installed Bio-Formats version and **replace the .jar file** *"formats-bsd-6.x.y.jar"* in the following folder:
 *path_to_fiji_app/jars/bio-formats/*.
