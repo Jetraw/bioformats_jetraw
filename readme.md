@@ -4,11 +4,11 @@ This is the Fiji Bio-Formats plug-in for Jetraw. With this Bio-Formats plug-in v
 ## Requirements
 - **Jetraw installed** on a Windows, Linux or macOS computer.<br/>
 *Note:* if you do not have Jetraw installed visit https://www.jetraw.com/downloads/software and for usage information https://github.com/Jetraw/Jetraw
-- **Fiji installed** with Bio-Formats plug-in (accepted versions 6.5.1, 6.6.0, 6.6.1, 6.7.0, 6.8.0, 6.8.1, 6.9.0, 6.9.1, 6.10.0 and 6.10.1)<br/>
+- **Fiji installed** with Bio-Formats plug-in (accepted versions 6.5.1, 6.6.0, 6.6.1, 6.7.0, 6.8.0, 6.8.1, 6.9.0, 6.9.1, 6.10.0, 6.10.1 and 6.11.0)<br/>
 *Note:* if you do not have Fiji installed you can download it from here -> https://imagej.net/Fiji/Downloads
 
 ## Install Windows
-First download the JAR file from [latest release (6.10.1)](https://github.com/Jetraw/Bio-Formats/releases/download/22.08.31.1/formats-bsd-6.10.1.jar), or browse [previous releases](https://github.com/Jetraw/Bio-Formats/releases). In the **Release section** you will find the JAR files for **versions**: 6.5.1, 6.6.0, 6.6.1, 6.7.0, 6.8.0, 6.8.1, 6.9.0, 6.9.1, 6.10.0 and 6.10.1.  
+First download the JAR file from [latest release (6.10.1)](https://github.com/Jetraw/Bio-Formats/releases/download/22.08.31.1/formats-bsd-6.11.0.jar), or browse [previous releases](https://github.com/Jetraw/Bio-Formats/releases). In the **Release section** you will find the JAR files for **versions**: 6.5.1, 6.6.0, 6.6.1, 6.7.0, 6.8.0, 6.8.1, 6.9.0, 6.9.1, 6.10.0, 6.10.1 and 6.11.0.  
 
 Choose the JAR file corresponding to your installed Bio-Formats version and **replace the .jar file** *"formats-bsd-6.x.y.jar"* in the following folder:
 *path_to_fiji_app/jars/bio-formats/*.
